@@ -122,7 +122,7 @@
 
 48. 突触的形成和消除 ----王芷萱[akicn](https://github.com/akicn)
 
-49. 突触连接的经验和细化
+49. 突触连接的经验和细化   ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
 
 50. 修复受损的大脑----谷昊展 [guhaoz](https://github.com/guhaoz?tab=repositories) 
 
@@ -147,7 +147,7 @@
 
 57. 周围神经和运动单位疾病 ----冯颖[fengying1107](https://github.com/fengying1107)
 
-58. 癫痫发作和癫痫
+58. 癫痫发作和癫痫  ----李道桢[qingfeng99-a11y](https://github.com/qingfeng99-a11y)
 
 59. 有意识和无意识的心理过程障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
 60. 精神分裂症的思想和意志障碍 ----李俊强[cooleqqq](https://github.com/cooleqqq)
